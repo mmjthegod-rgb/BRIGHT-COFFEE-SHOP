@@ -1,10 +1,9 @@
-1. Project Overview
+Project Overview
 
 The Bright Coffee Shop Sales Analysis project focuses on analysing historical sales transactions to help Bright Coffee Shop grow its revenue and improve product performance.
 
 The company has appointed a new CEO whose mission is to increase revenue, understand customer purchasing patterns, and make data-driven business decisions. As a Junior Data Analyst, my role is to analyse the sales dataset, identify key business insights, and present actionable recommendations to support the CEO's objectives.
-
-2. Project Objectives
+ Project Objectives
 
 The main objectives of this project are to:
 
